@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">An aspiring full-stack developer from Vietnam with a growing passion for backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangcitizens&label=Profile%20views&color=0e75b6&style=flat" alt="hoangcitizens" /> </p>
 
